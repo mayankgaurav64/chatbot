@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "619278437535",
+    "project_id": "minorproject-c3696",
+    "storage_bucket": "minorproject-c3696.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619278437535:android:bcec544df4f22fe90966aa",
+        "android_client_info": {
+          "package_name": "com.codewitharyan.chatbot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGmRKHzQ5VIgGbCGLCEp2kfySOR7uira0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
